@@ -5,4 +5,5 @@
 <!---actually start 💔 -->
 <!---add ts at some point: https://youtu.be/2FS-RMZLmwE -->
 CALMATE
-!(https://raw.githubusercontent.com/MINERODO-ZEN/velcro-death/refs/heads/main/proof/image-03.png)
+
+![](/proof/image-03.png)
