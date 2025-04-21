@@ -4,7 +4,7 @@
 <!---Se puede editar aca mismo desde github.com btw...  -->
 <!---to-do: -->
 <!---actually start 💔 -->
-<!---add ts at some point: https://youtu.be/2FS-RMZLmwE -->
+<!---añadir ts en algun punto: https://youtu.be/2FS-RMZLmwE -->
 CALMATE
 
 ![](/proof/image-03.png)
